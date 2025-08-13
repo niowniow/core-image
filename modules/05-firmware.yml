@@ -10,7 +10,7 @@ sources:
     - firmware-atheros
     - intel-microcode
     - amd64-microcode
-    - b43-fwcutter
-    - firmware-b43-installer
+#    - b43-fwcutter
+#    - firmware-b43-installer
     - firmware-brcm80211
     - firmware-sof-signed
