@@ -4,7 +4,7 @@ vibversion: 1.0.0
 
 stages:
 - id: build
-  base: ghcr.io/vanilla-os/pico:dev
+  base: debian:bookworm-slim
   addincludes: true
   singlelayer: false
   labels:
